@@ -31,7 +31,7 @@ Before you begin, ensure you have:
 ### Clone the repository
 
 ```bash
-git clone https://github.com/ChachanNaman/Prompt-Engineering-ChatBot.git
+git clone https://github.com/K092005/Prompt-Engineering-ChatBot.git
 cd Prompt-Engineering-ChatBot
 ```
 
